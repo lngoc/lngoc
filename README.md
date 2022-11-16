@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lyn Ngoc
-- 👀 I’m interested in Web Developer
+- 👀 I’m interested in Front-End/Web
 - 🌱 I’m currently learning at CSU San Marcos
 - 📫 How to reach me: lynlady2412@gmail.com
 
