@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lyn Ngoc
-- 👀 I’m interested in Front-End/Web/Data Analyst
-- 🌱 I graduated at CSU San Marcos
-- 📫 How to reach me: lynlady2412@gmail.com
+- 👀 Data Analyst
+- 🌱 I'm current enrolling in Master of Science in Big Data Analytic
+- 📫 How to reach me: lngoc7848@sdsu.edu
 
 <!---
 lngoc/lngoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
